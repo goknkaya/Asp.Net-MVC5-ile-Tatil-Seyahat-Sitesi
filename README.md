@@ -10,8 +10,6 @@ Proje ilk açıldığı zaman bizi bir anasayfa karşılıyor. Anasayfada temel 
 - MVC (Model - View - Controller) katmanlarını efektif bir şekilde kullanılması
 - HttpGet ve HttpPost attributelarının Controller tarafında efektif bir şekilde kullanılması
 - CodeFirst ilkesi benimsenmiş ve Model tarafında bunun efektif bir şekilde kullanılması (SQL Server Management Studio ile senkronize oluşturulmuş tablolar, ilişkiler)
-- Authorize
-- SessionTimeOut attribute
 
   gibi bir çok teknolojiyi kullanmış oldum.
 
