@@ -1,6 +1,6 @@
 # ASP.NET MVC5 İLE TATİL & SEYAHAT BLOG SİTESİ PROJESİ
 
-Herkese merhaba, bu proje Murat Yücedağ' ın Youtube üzerinde yayınladığı <a href="https://www.youtube.com/watch?v=vTCP8F2qszA&list=PLKnjBHu2xXNNhJQ6SyF7Wyhqza9mkMGSw> MVC5 ile Tatil Seyahat Projesi</a> eğitimi izlenerek ve uygulanarak oluşturulmuştur.
+Herkese merhaba, bu proje Murat Yücedağ' ın Youtube üzerinde yayınladığı MVC5 ile Tatil Seyahat Projesi eğitimi izlenerek ve uygulanarak oluşturulmuştur.
 
 Proje ilk açıldığı zaman bizi bir anasayfa karşılıyor. Anasayfada temel şekilde bir header, bir footer, beş seçenekli bir menü (Anasayfa, Hakkımızda, Rehber <aktif değil>, Bloğum, İletişim) ve bir de içerik bulunmaktadır. Hakkımızda sayfasında proje hakkında temel bilgiler verilmiştir. Rehber kısmı aktif değildir. Bloğum kısmında çeşitli tatil seyahat noktaları, bu noktalar için blog yazıları ve yorumları yer almaktadır. İletişim kısmında şahsi bilgilerim yer almaktadır. Projede bir de tüm bloglar ve yorumlar hakkında düzenleme yapabilmemiz için Admin girişi bulunmaktadır. Proje temel olarak aşağıdaki görüntülere sahiptir ve aşağıdaki fonksiyonları yerine getirebilmektedir:
 
@@ -13,6 +13,18 @@ Proje ilk açıldığı zaman bizi bir anasayfa karşılıyor. Anasayfada temel 
 - Authorize
 - SessionTimeOut attribute
 
-  gibi bir çok teknolojiyi kullanmış olduk.
+  gibi bir çok teknolojiyi kullanmış oldum.
+
+  ## Projeye Ait Ekran Görüntüleri
+
+  <img src="https://i.hizliresim.com/na0y8yx.png"></img>
+  <img src="https://i.hizliresim.com/f80sv9n.png"></img>
+  <img src="https://i.hizliresim.com/lio7ond.png"></img>
+  <img src="https://i.hizliresim.com/4jhor9k.png"></img>
+  <img src="https://i.hizliresim.com/7fokto9.png"></img>
+  <img src="https://i.hizliresim.com/shh4o78.png"></img>
+  <img src="https://i.hizliresim.com/54h69ir.png"></img>
+  <img src="https://i.hizliresim.com/7tgvu9a.png"></img>
+  <img src="https://i.hizliresim.com/6ee345p.png"></img>
 
   
