@@ -17,14 +17,22 @@ Proje ilk açıldığı zaman bizi bir anasayfa karşılıyor. Anasayfada temel 
 
   ## Projeye Ait Ekran Görüntüleri
 
-  <img src="https://i.hizliresim.com/na0y8yx.png"></img>
-  <img src="https://i.hizliresim.com/f80sv9n.png"></img>
-  <img src="https://i.hizliresim.com/lio7ond.png"></img>
-  <img src="https://i.hizliresim.com/4jhor9k.png"></img>
-  <img src="https://i.hizliresim.com/7fokto9.png"></img>
-  <img src="https://i.hizliresim.com/shh4o78.png"></img>
-  <img src="https://i.hizliresim.com/54h69ir.png"></img>
-  <img src="https://i.hizliresim.com/7tgvu9a.png"></img>
-  <img src="https://i.hizliresim.com/6ee345p.png"></img>
+Admin Giriş Ekranı
+<img src="https://i.hizliresim.com/na0y8yx.png"></img>
+
+Admin Anasayfa Blog Listesi Ekranı
+<img src="https://i.hizliresim.com/f80sv9n.png"></img>
+
+Admin Anasayfa Yorum Listesi Ekranı
+<img src="https://i.hizliresim.com/lio7ond.png"></img>
+
+UI Anasayfa
+<img src="https://i.hizliresim.com/4jhor9k.png"></img>
+
+<img src="https://i.hizliresim.com/7fokto9.png"></img>
+<img src="https://i.hizliresim.com/shh4o78.png"></img>
+<img src="https://i.hizliresim.com/54h69ir.png"></img>
+<img src="https://i.hizliresim.com/7tgvu9a.png"></img>
+<img src="https://i.hizliresim.com/6ee345p.png"></img>
 
   
