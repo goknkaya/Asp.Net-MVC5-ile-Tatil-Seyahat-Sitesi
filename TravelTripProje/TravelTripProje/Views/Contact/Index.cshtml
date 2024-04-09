@@ -1,0 +1,26 @@
+﻿@using TravelTripProje.Models.Classes
+@model List<iletisim>
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_TestLayout.cshtml";
+}
+
+<div class="content">
+    <div class="wrap">
+        <div class="about" align="center">
+            <h3>İletişim Bilgileri</h3>
+            @foreach (var x in Model)
+            {
+                <img src="/web/images/me.jpg" alt="Gokhan" style="width:177px">
+                <h2>@x.AdSoyad</h2>
+                <h4>Bilgisayar Mühendisi</h4><br />
+                <p><a href="mailto:gokhankaya256@gmail.com">@x.Mail</a></p>
+                <br /><br />
+                <p><a href="https://www.linkedin.com/in/gokhankaya256/">@x.Konu</a></p>
+                <br /><br />
+                <p><a href="https://github.com/goknkaya">@x.Mesaj</a></p>
+                <br /><br />
+            }
+        </div>
+    </div>
+</div>
